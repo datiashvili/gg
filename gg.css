@@ -1,0 +1,37 @@
+.cont {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+
+
+.hh1 {
+    color: rgb(148, 148, 148);
+}
+
+span {
+    color: black;
+}
+
+input {
+    border: 1px solid rgba(93, 163, 255, 0.678);
+    padding: 12px;
+    border-radius: 20px;
+    width: 190px;
+    padding-left: 118px;
+}
+
+button {
+    width: 320px;
+    margin-top: 8px;
+    display: block;
+    height: 40px;
+    background-color: rgb(93, 163, 255);
+    border: 0;
+    font-size: medium;
+    font-weight: 400;
+    border-radius: 20px;
+    padding: 12px;
+}
